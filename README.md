@@ -2,6 +2,9 @@
 
 A robust, production-ready API gateway for LLMs (Ollama) that intelligently routes logs requests, tracks costs, and ensures resilience.
 
+> 🔀 **Note:** Check out the Python package version on the [`convert_to_lib` branch](https://github.com/namratesh/llm-gateway-core-cost-tracking/tree/convert_to_lib), which can be installed and used directly.
+
+
 ## Architecture
 
 ![Workflow](workflow.png)
